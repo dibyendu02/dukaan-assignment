@@ -5,7 +5,7 @@ import { CiSearch } from "react-icons/ci";
 
 const Navbar = () => {
   return (
-    <div className='flex w-full items-center justify-between px-5 py-3 bg-white sticky top-0 z-10 shadow-md'>
+    <div className='flex w-full items-center justify-between px-5 py-3 bg-white sticky top-0 z-10 ' style={{boxShadow: "0px 0px 0px 2px rgba(26, 24, 30, 0.04)"}}>
         <div className='flex'>
             <h1>Payments</h1>
             <div className='flex items-center mx-3 gap-2 text-black/80'>

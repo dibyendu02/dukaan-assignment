@@ -12,9 +12,7 @@ module.exports = {
     //   "text":"#4D4D4D",
     //   "text-dark":"#1A181E",
     //   "secondary":"#146EB4",
-    //   // "white":"#fff"
-
-    // }
+    // },
   },
   plugins: [],
 }
